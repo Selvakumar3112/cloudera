@@ -1,0 +1,25 @@
+# This file is maintained automatically by "terraform init".
+# Manual edits may be lost in future updates.
+
+provider "registry.terraform.io/cloudera/cdp" {
+  version     = "0.1.4-pre"
+  constraints = "0.1.4-pre"
+  hashes = [
+    "h1:99OxmLoXXunxrNbUdBSsT50GiHpNoevUvx6CUb1tkn0=",
+    "zh:03d614c4982877afeb6999d15b7ac195974972bc00d69f6d965470285b271c18",
+    "zh:1f343f3f8ca79e6c8a51636759928c38703e5cc260288ca55198182823677005",
+    "zh:24813f5c76bb6a1af55664b230bc16ecb2c60834207cf4e6f6d157acedb53827",
+    "zh:3669d4d839dc1f691aab91ca3b70a8e64441f11aff644386f7b92cbc92d3333a",
+    "zh:477a487a2729bc4b9d7b13773872eda1cf0dda39114105d86191ae8ded80a6b8",
+    "zh:47894301c3844ff12a1f683fbaed5263949fdd8c17f5ad0a6c0c8414d67ee2d9",
+    "zh:54aadcc7f2b8c7f0e8feb70f127b6f87e20574118b072c8a35aa240a6753d845",
+    "zh:5974c92811f847819094fc2b0fb75e63fe9c403f1475732c9e882c29a325c917",
+    "zh:726f26e45fcd36de69d8292d31740da7d9761a81034b097b00a87b68e5977971",
+    "zh:8c09e7c95f43141bd894bb5da9e1e6837a0d2fbd7be4b915186619e0a1418554",
+    "zh:b1fe6815e6a1f2b9eed767b5434954d9d005297a55d2e4e58e3799d232f492a5",
+    "zh:bfd7a1aa9a1e398e72c91964aa5631b4af9cc3cfd15143c35ac0d3dbc12828fc",
+    "zh:d1bfe502a14948850d14cf687b8e4267488f63a3359c27f7f16b688753f9bd79",
+    "zh:d34f5bb49231c2547939742afbc873e2a8f7a7329fdbbcd6e657fd47e16ddcd5",
+    "zh:f7e40bf01d54b95daf285b062baf56185a465fea597c7844ba7e626c89c2e47f",
+  ]
+}
